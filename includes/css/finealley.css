@@ -1,0 +1,139 @@
+body {
+	font-size: 16px;
+    background-color: #110f0e;
+    color: #98D6EC;
+    margin: 0;
+    padding: 0;	
+}
+div.mainContainer {
+	background-image: url('../img/finealleySplash500.jpg');
+	background-repeat: no-repeat;
+	background-position: top right;
+	padding: 0 1em;
+ 	margin: 0 auto;	
+    /* max-width: 1000px; */	
+}
+@media (max-width: 500px) {
+	div.mainContainer { background-size: 90% auto; }
+}
+.masthead h1 {
+	height: 100px;
+	text-indent: -10000px;
+}
+#myCarousel .carousel-inner {
+    border-radius: 1em;
+}
+div.navbar a.brand {
+	color: #98D6EC;
+}
+aside {
+	background-color: rgba(66,66,66,0.5);
+	padding: 1em;
+	border: 3px #000 solid;
+	border-radius: 1em;
+	margin: 0 0 1em 0;
+}
+div.bodyContent {
+	background-color: rgba(66,66,66,0.5);
+	border: 3px #000 solid;
+	color: #eee;      	
+	padding: 1em;
+	border-radius: 1em;
+	margin: 0 0 1em 0;
+}
+footer {
+	font-size: 0.8em;
+	color: #999;
+	margin: 1em 0;
+}      
+div.fb-like-box {
+	background-color: #eee;
+	margin: 0 auto 1em auto;
+}
+div.fb-like-box h3 { color: #fff; }
+
+footer h3 {
+	margin: 0 0 1em 0;
+
+}
+form.contactForm input.full {
+	width: 95%;
+}
+form.contactForm textarea {
+	width: 95%;
+	height: 300px;
+}
+
+div.facebookFeed {
+	background-color: rgba(66,66,66,0.5);
+	border: 3px #000 solid;
+	color: #eee;      	
+	padding: 1em;
+	border-radius: 1em;
+	margin: 0 0 1em 0;	
+}
+div.facebookFeed header {
+	background-color: #333;
+	position: relative;
+	padding: 0.5em 3.5em 0.5em 0.5em;
+	border-radius: 1em;
+	margin: 0 0 0.5em 0;
+}
+div.facebookFeed header img { float: left; margin: 0 1em 0 0; }
+div.facebookFeed header h3 { line-height: 50px; margin: 0; }
+div.facebookFeed header div.likes {
+	position: absolute;
+	top: 0.5em;
+	right: 0.5em;
+	width: 3em;
+	text-align: center;
+	background-color: #111;
+	border-radius: 0.7em;
+	height: 40px;
+	padding: 5px;
+}
+div.facebookFeed header div.likes span { display: block; }
+div.facebookFeed header div.likes span.count { font-size: 1.8em; }
+div.facebookFeed header div.likes span.text { font-size: 0.8em; }
+div.facebookFeed div.feed {
+	max-height: 500px;
+	overflow: auto;
+}
+div.facebookFeed div.feed div.post { 
+	clear: both;
+	border-bottom: 1px #333 solid;
+	margin: 0 0 1em 0;
+}
+div.facebookFeed div.feed div.post img { float: left; margin: 0; }
+div.facebookFeed div.feed div.post div.details header { background: transparent; padding: 0; }
+div.facebookFeed div.feed div.post div.details header div.person img { margin: 0 1em 0 0; }
+div.facebookFeed div.feed div.post div.details header div.person p.name { font-size: 1.2em; }
+div.facebookFeed div.feed div.post div.details header p.postDate { margin: 0; color: #999; }
+div.facebookFeed div.feed div.post div.details div.body { margin: 0 1em 0 0; }
+div.facebookFeed div.feed div.post div.details div.body img { float: none; }
+div.facebookFeed footer {
+	margin: 0;
+	padding: 0;
+}
+div.facebookFeed footer a {
+	margin: 0;
+	padding: 0;
+}
+div.facebookFeed footer div.comments { margin: 0 0 0 2em; }
+div.facebookFeed footer div.comments p { color: #fff; }
+div.facebookFeed footer div.comments div.comment div.person img { margin: 0 1em 0 0; }
+div.facebookFeed footer div.comments div.comment div.person p { font-size: 1.4em; }
+div.facebookFeed footer div.comments div.comment { border-bottom: 1px #333 solid;  margin: 0 0 1em 0; }
+div.facebookFeed footer div.comments div.comment p.postDate { color: #999; }
+div.facebookFeed footer div.comments div.comment p.message { font-size: 1.2em; }
+div.facebookFeed footer ul.actions {
+	margin: 1em 0;
+	padding: 0;
+	list-style: none;
+	line-height: 1.2em;
+	height:  1.2em;
+}
+div.facebookFeed footer ul.actions li { float: right; margin: 0 1em 0 0; }
+
+
+table.cfdump_struct td { color: #000; }

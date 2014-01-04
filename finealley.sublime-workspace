@@ -1,0 +1,454 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str",
+				"struct	Argument Type"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"writ",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"structKey",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"structK",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"mapp",
+				"mappedSuperClass=\"true\"	mappedSuperClass"
+			],
+			[
+				"_p",
+				"_person"
+			],
+			[
+				"_po",
+				"_postCount"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"backgrou",
+				"background-repeat"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"crea",
+				"createUUID	fn. (cfscript)"
+			],
+			[
+				"var",
+				"VARIABLES"
+			],
+			[
+				"m",
+				"mappedSuperClass=\"true\"	mappedSuperClass"
+			],
+			[
+				"persis",
+				"persistent=\"true\"	persistent"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"write",
+				"writeOutput	fn. (cfscript)"
+			],
+			[
+				"re",
+				"reset=\"true\"	reset"
+			],
+			[
+				"pr",
+				"propertyName"
+			],
+			[
+				"structke",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"me",
+				"messages"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/inetpub/wwwroot/finealley/controllers/admin.cfc",
+		"/C/inetpub/wwwroot/finealley/views/admin/listArticles.cfm",
+		"/C/inetpub/wwwroot/finealley/src/less/alerts.less",
+		"/C/inetpub/wwwroot/finealley/views/articles/default.cfm",
+		"/C/inetpub/wwwroot/finealley/views/articles/editArticle.cfm",
+		"/C/inetpub/wwwroot/finealley/layouts/default.cfm",
+		"/C/inetpub/wwwroot/finealley/views/articles/view.cfm",
+		"/C/inetpub/wwwroot/finealley/includes/js/jHtmlArea.js",
+		"/C/inetpub/wwwroot/finealley/controllers/articles.cfc",
+		"/C/inetpub/wwwroot/finealley/includes/js/editArticle.js",
+		"/C/inetpub/wwwroot/finealley/application.cfc",
+		"/C/inetpub/wwwroot/finealley/models/article.cfc",
+		"/C/inetpub/wwwroot/finealley/services/articleService.cfc",
+		"/C/inetpub/wwwroot/finealley/models/_ormBase.cfc",
+		"/C/inetpub/wwwroot/finealley/includes/css/jHtmlArea.css",
+		"/C/Users/Christopher/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/inetpub/wwwroot/finealley/src/less/theme.less",
+		"/C/inetpub/wwwroot/finealley/services/personService.cfc",
+		"/C/inetpub/wwwroot/finealley/views/articles/article/summary.cfm",
+		"/C/inetpub/wwwroot/finealley/views/articles/article/body.cfm",
+		"/C/inetpub/wwwroot/finealley/layouts/articles/editArticle.cfm",
+		"/C/inetpub/wwwroot/finealley/views/home/contact.cfm",
+		"/C/inetpub/wwwroot/finealley/includes/css/finealley2.css",
+		"/C/inetpub/wwwroot/finealley/services/_serviceBase.cfc",
+		"/C/inetpub/wwwroot/finealley/models/media.cfc",
+		"/C/inetpub/wwwroot/finealley/views/admin/listUsers.cfm",
+		"/C/inetpub/wwwroot/finealley/services/securityService.cfc",
+		"/C/inetpub/wwwroot/finealley/views/home/media.cfm",
+		"/C/inetpub/wwwroot/finealley/controllers/home.cfc",
+		"/C/inetpub/wwwroot/finealley/models/person.cfc",
+		"/C/inetpub/wwwroot/finealley/models/author.cfc",
+		"/C/inetpub/wwwroot/finealley/layouts/home/homepage.cfm",
+		"/C/inetpub/wwwroot/finealley/utilities/FacebookBase.cfc",
+		"/C/inetpub/wwwroot/finealley/utilities/FacebookGraphAPI.cfc",
+		"/C/inetpub/wwwroot/finealley/includes/js/global.js",
+		"/C/inetpub/wwwroot/finealley/views/home/Login.cfm",
+		"/C/inetpub/wwwroot/finealley/utilities/security.cfc",
+		"/C/inetpub/wwwroot/finealley/utilities/FacebookAPIException.cfc",
+		"/C/inetpub/wwwroot/finealley/utilities/FacebookApp.cfc",
+		"/C/Users/Christopher/Documents/books/mobi/smashing-book-2-the-lost-files.mobi",
+		"/C/inetpub/wwwroot/finealley/views/home/register.cfm",
+		"/C/inetpub/wwwroot/finealley/views/admin/editUser.cfm",
+		"/C/inetpub/wwwroot/finealley/services/messageService.cfc",
+		"/C/inetpub/wwwroot/finealley/includes/css/bootstrap.css",
+		"/C/inetpub/wwwroot/finealley/includes/css/bk_bootstrap.css",
+		"/C/inetpub/wwwroot/finealley/views/home/denied.cfm",
+		"/C/inetpub/wwwroot/finealley/sql/orm.sql",
+		"//dev_control.labx.local/Websites/integrated.sites/models/ormBase.cfc",
+		"/C/inetpub/wwwroot/finealley/models/history.cfc",
+		"//dev_control.labx.local/Websites/integrated.sites/control/controllers/publications.cfc",
+		"/C/inetpub/wwwroot/finealley/views/home/logout.cfm",
+		"/C/inetpub/wwwroot/finealley/includes/js/fbFeed.js",
+		"/C/inetpub/wwwroot/finealley/includes/css/finealley.css",
+		"/C/inetpub/wwwroot/finealley/includes/css/finealleySplashScreen.css",
+		"/C/inetpub/wwwroot/finealley/controllers/admin",
+		"//dev_control.labx.local/Websites/integrated.sites/control/controllers/accountManagement.cfc",
+		"//dev_control.labx.local/Websites/integrated.sites/services/newsletterService.cfc",
+		"//dev_control.labx.local/Websites/integrated.sites/services/baseService.cfc",
+		"//dev_control.labx.local/Websites/integrated.sites/models/history.cfc",
+		"/C/inetpub/wwwroot/finealley/views/splash/default.cfm",
+		"/C/inetpub/wwwroot/finealley/channel.html",
+		"/C/inetpub/wwwroot/finealley/utilities/template.cfc",
+		"/C/inetpub/wwwroot/finealley/views/home/homepage.cfm",
+		"/C/inetpub/wwwroot/finealley/layouts/home.cfm",
+		"/C/inetpub/wwwroot/finealley/views/home/events.cfm",
+		"/C/inetpub/wwwroot/finealley/views/home/downloads.cfm",
+		"/C/inetpub/wwwroot/finealley/views/home/about.cfm",
+		"/C/inetpub/wwwroot/finealley/utilities/formBuddy.cfc",
+		"/C/inetpub/wwwroot/finealley/controllers/splash.cfc",
+		"/C/inetpub/wwwroot/finealley/views/home/error.cfm",
+		"/C/inetpub/wwwroot/finealley/includes/js/homepage.js",
+		"/C/inetpub/wwwroot/finealley/layouts/home/hompage.cfm",
+		"/C/inetpub/wwwroot/finealley/includes/js/html5shiv.js",
+		"/C/inetpub/wwwroot/finealley/web.config",
+		"/C/inetpub/wwwroot/finealley/index.cfm",
+		"/C/inetpub/wwwroot/ChristopherVachon/web.config",
+		"//dev_control.labx.local/Websites/integrated.sites/LabManager.fw1/controllers/main.cfc",
+		"//dev_control.labx.local/Websites/integrated.sites/LabManager.fw1/web.config",
+		"//dev_control.labx.local/Websites/integrated.sites/control/web.config",
+		"/C/inetpub/wwwroot/ChristopherVachon/views/main/error.cfm",
+		"/C/inetpub/wwwroot/finealley/controllers/home.cfm",
+		"/C/inetpub/wwwroot/finealley/frameworkOne/framework.cfc",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/inetpub/wwwroot/happydayshouseboats/gallery.php",
+		"/C/Users/Christopher/Dropbox/Band Info/Vachon-Helps-Figgs-with-class-assignment/requestTable.php",
+		"/C/Users/Christopher/Dropbox/Band Info/Vachon-Helps-Figgs-with-class-assignment/saveRequest.php",
+		"/C/Users/Christopher/Dropbox/Band Info/Vachon-Helps-Figgs-with-class-assignment/Assignment 1-SQL.docx",
+		"/C/inetpub/wwwroot/ChristopherVachon/controllers/baseController.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon-OwnFramework/Controller/tests.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon/views/main/tests.cfm",
+		"/C/inetpub/wwwroot/ChristopherVachon/controllers/main.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon/utilities/template.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon/includes/css/default.css",
+		"/C/inetpub/wwwroot/ChristopherVachon/utilities/baseObject.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon/tests/person.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon-OwnFramework/application.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon/utilities/namingStrategy.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon/models/_ormBase.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon/models/person.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon/application.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon/views/main/default.cfm",
+		"/C/inetpub/wwwroot/ChristopherVachon-OwnFramework/Model/person_test.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon-OwnFramework/web.config",
+		"/C/inetpub/wwwroot/ChristopherVachon-OwnFramework/index.cfm",
+		"/C/inetpub/wwwroot/ChristopherVachon-Production/application.cfc",
+		"/C/inetpub/wwwroot/ChristopherVachon/layouts/default.cfm",
+		"/C/inetpub/wwwroot/ChristopherVachon/index.cfm",
+		"/C/inetpub/wwwroot/ChristopherVachon/layouts/main.cfm",
+		"/C/inetpub/wwwroot/happydayshouseboats/css/main.css",
+		"/C/inetpub/wwwroot/happydayshouseboats/css/styles.css",
+		"/C/inetpub/wwwroot/happydayshouseboats/_onRequestStart.php",
+		"/C/inetpub/wwwroot/happydayshouseboats/template/header.php",
+		"/C/inetpub/wwwroot/happydayshouseboats/_template.php",
+		"/C/inetpub/wwwroot/happydayshouseboats/_gallerySettings.php",
+		"/C/inetpub/wwwroot/happydayshouseboats/js/gallery.js",
+		"/C/inetpub/wwwroot/happydayshouseboats/css/gallery.css",
+		"/C/inetpub/wwwroot/happydayshouseboats/css/admin.css",
+		"/C/inetpub/wwwroot/happydayshouseboats/template/menu.php",
+		"/C/inetpub/wwwroot/happydayshouseboats/admin/login.php",
+		"/C/inetpub/wwwroot/happydayshouseboats/index.php",
+		"/C/inetpub/wwwroot/ChristopherVachon/mxunit/tests/run.cfm",
+		"/C/inetpub/wwwroot/happydayshouseboats/.user.ini",
+		"/C/inetpub/wwwroot/happydayshouseboats/cgi-bin/php.ini"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1234567899",
+			"getOAuthAccessToken",
+			"setAcces",
+			"accesstoken",
+			" \"",
+			"body",
+			"found",
+			"')\n",
+			"Dark",
+			">\n",
+			"galleryThumbnails",
+			"margin",
+			"navigation",
+			"body #container #footer",
+			" #"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true
+}
